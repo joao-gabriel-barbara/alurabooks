@@ -1,2 +1,2 @@
 # alurabooks
-Projeto do curso da alura
+Projeto do curso da Alura.
